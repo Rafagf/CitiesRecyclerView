@@ -10,9 +10,9 @@ In the app, you can change the view to see how the Recycler view look changes de
 
 <br />   
 
-<img src="http://s8.postimg.org/f5srgxh1x/Screenshot_2015_08_23_17_55_41.png" width="250" height="500" />
-<img src="http://s8.postimg.org/mztd2bout/Screenshot_2015_08_23_17_55_50.png" width="250" height="500" />
-<img src="http://s8.postimg.org/m7qp34knp/Screenshot_2015_08_23_17_56_33.png" width="250" height="500" />
+<img src="http://s8.postimg.org/f5srgxh1x/Screenshot_2015_08_23_17_55_41.png" width="220" height="450" />
+<img src="http://s8.postimg.org/mztd2bout/Screenshot_2015_08_23_17_55_50.png" width="220" height="450" />
+<img src="http://s8.postimg.org/m7qp34knp/Screenshot_2015_08_23_17_56_33.png" width="220" height="450" />
 
 ## Author
 
